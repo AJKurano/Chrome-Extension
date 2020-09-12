@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "AJ Kurano YouTube Links",
+    "description": "This extension will show you The AJ Kurano Website Anytime!",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": []
+}
