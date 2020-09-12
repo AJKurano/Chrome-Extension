@@ -13,7 +13,7 @@
    <br>
    2. Unzip The File
    <br>
-   3. Go to chrome and type this "chrome://extensions/"
+   3. Go to chrome and type this "chrome://extensions/" and Switch On Developer Mode
    <br>
    4. Drag The Downloaded Folder to the page
    <br>
