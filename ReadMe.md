@@ -17,7 +17,7 @@
    <br>
    4. Drag The Downloaded Folder to the page
    <br>
-   5. Enjoy Your Extension
+   5. Enjoy Your Extension, You can open the links by right clicking on them!
    <br>
     <a href="AJ Kurano Chrome Extension.zip" download>
     <button> Download The Extension!!! </button>
