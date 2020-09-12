@@ -21,5 +21,6 @@
    <br>
     <a href="AJ Kurano Chrome Extension.zip" download>
     <button> Download The Extension!!! </button>
+   </a>
   </body>
   </html>
